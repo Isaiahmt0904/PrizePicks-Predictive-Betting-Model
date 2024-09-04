@@ -1,0 +1,305 @@
+,Team,Position,Projection,Recommendation,Line,Actual,Market Label,Deviation,Correctness
+0,NYK,F,9,over,4.5,3,Rebounds,6,wrong
+1,ATL,C,3,under,7.5,4,Rebounds,1,right
+2,UTH,C,13,under,16.5,11,Rebounds,2,right
+3,ATL,G,3,under,5.5,4,Rebounds,1,right
+4,MIL,F,7,over,4.5,10,Rebounds,3,right
+5,MIL,G,6,over,3.5,3,Rebounds,3,wrong
+6,PHO,C,9,under,11.5,7,Rebounds,2,right
+7,LAL,C,6,under,8.5,3,Rebounds,3,right
+8,BKN,G,4,under,6.5,6,Rebounds,2,right
+9,DAL,G,4,under,6.5,3,Rebounds,1,right
+10,NYK,F,10,over,8.5,12,Rebounds,2,right
+11,ATL,C,13,over,11.5,9,Rebounds,4,wrong
+12,ATL,F,9,over,7.5,8,Rebounds,1,right
+13,MIL,F,12,over,10.5,12,Rebounds,0,right
+14,GSW,G,6,over,4.5,4,Rebounds,2,wrong
+15,GSW,F,5,under,6.5,10,Rebounds,5,wrong
+16,GSW,G,4,under,5.5,8,Rebounds,4,wrong
+17,BKN,F,6,over,4.5,4,Rebounds,2,wrong
+18,BKN,F,4,under,5.5,1,Rebounds,3,right
+19,BKN,C,5,under,6.5,6,Rebounds,1,right
+20,DAL,G,4,over,2.5,4,Rebounds,0,right
+21,DAL,G,4,over,2.5,5,Rebounds,1,right
+22,NYK,G,5,over,4.5,3,Rebounds,2,wrong
+23,NYK,G,3,over,2.5,5,Rebounds,2,right
+24,ATL,G,4,over,3.5,5,Rebounds,1,right
+25,NYK,C,8,over,7.5,8,Rebounds,0,right
+26,NYK,F,5,over,4.5,3,Rebounds,2,wrong
+27,ATL,F,4,over,3.5,6,Rebounds,2,right
+28,NYK,F,4,over,3.5,4,Rebounds,0,right
+29,ATL,G,2,under,2.5,0,Rebounds,2,right
+30,MIL,G,2,under,2.5,2,Rebounds,0,right
+31,MIL,G,5,over,4.5,5,Rebounds,0,right
+32,MIL,C,5,under,5.5,8,Rebounds,3,wrong
+33,MIL,F,6,over,5.5,3,Rebounds,3,wrong
+34,BOS,G,4,under,4.5,2,Rebounds,2,right
+35,BOS,G,6,over,5.5,4,Rebounds,2,wrong
+36,BOS,F,8,under,8.5,9,Rebounds,1,wrong
+37,BOS,C,10,over,9.5,14,Rebounds,4,right
+38,BOS,G,5,over,4.5,2,Rebounds,3,wrong
+39,BOS,G,3,under,3.5,5,Rebounds,2,wrong
+40,PHO,G,4,over,3.5,6,Rebounds,2,right
+41,PHO,C,5,under,5.5,7,Rebounds,2,wrong
+42,PHO,F,4,under,4.5,3,Rebounds,1,right
+43,GSW,F,8,over,7.5,8,Rebounds,0,right
+44,PHO,G,4,under,4.5,3,Rebounds,1,right
+45,PHO,G,3,over,2.5,2,Rebounds,1,wrong
+46,PHO,F,4,over,3.5,6,Rebounds,2,right
+47,PHO,G,2,over,1.5,1,Rebounds,1,wrong
+48,GSW,G,2,over,1.5,0,Rebounds,2,wrong
+49,PHO,F,4,over,3.5,2,Rebounds,2,wrong
+50,GSW,F,4,under,4.5,2,Rebounds,2,right
+51,GSW,F,2,under,2.5,1,Rebounds,1,right
+52,LAL,F,8,under,8.5,9,Rebounds,1,wrong
+53,LAL,G,2,under,2.5,3,Rebounds,1,wrong
+54,BKN,G,9,over,8.5,10,Rebounds,1,right
+55,LAL,G,9,under,9.5,12,Rebounds,3,wrong
+56,LAL,G,2,over,1.5,0,Rebounds,2,wrong
+57,BKN,G,3,over,2.5,2,Rebounds,1,wrong
+58,BKN,F,4,over,3.5,5,Rebounds,1,right
+59,LAL,G,3,over,2.5,4,Rebounds,1,right
+60,LAL,G,5,over,4.5,2,Rebounds,3,wrong
+61,UTH,G,3,over,2.5,7,Rebounds,4,right
+62,UTH,F,4,under,4.5,3,Rebounds,1,right
+63,UTH,F,3,under,3.5,4,Rebounds,1,wrong
+64,UTH,C,6,under,6.5,7,Rebounds,1,wrong
+65,UTH,G,3,under,3.5,8,Rebounds,5,wrong
+66,DAL,C,5,under,5.5,7,Rebounds,2,wrong
+67,UTH,F,3,over,2.5,2,Rebounds,1,wrong
+68,DAL,F,5,under,5.5,5,Rebounds,0,right
+69,UTH,G,4,over,3.5,3,Rebounds,1,wrong
+70,UTH,F,5,under,5.5,4,Rebounds,1,right
+71,DAL,G,4,over,3.5,2,Rebounds,2,wrong
+72,ATL,F,11,under,19.5,10,Points,1,right
+73,ATL,C,4,under,11.5,6,Points,2,right
+74,ATL,G,5,under,9.5,20,Points,15,wrong
+75,GSW,G,10,under,14.5,14,Points,4,right
+76,MIL,F,28,over,24.5,36,Points,8,right
+77,PHO,G,20,under,23.5,13,Points,7,right
+78,GSW,F,5,under,8.5,4,Points,1,right
+79,LAL,F,26,under,29.5,39,Points,13,wrong
+80,BKN,G,25,under,28.5,36,Points,11,wrong
+81,UTH,G,22,under,25.5,33,Points,11,wrong
+82,DAL,G,6,under,9.5,9,Points,3,right
+83,ATL,F,18,under,20.5,20,Points,2,right
+84,MIL,G,10,over,7.5,3,Points,7,wrong
+85,GSW,F,8,under,10.5,8,Points,0,right
+86,GSW,F,5,under,7.5,8,Points,3,wrong
+87,PHO,C,14,under,16.5,18,Points,4,wrong
+88,BKN,G,16,under,18.5,34,Points,18,wrong
+89,BKN,G,8,under,10.5,16,Points,8,wrong
+90,BKN,C,7,under,9.5,9,Points,2,right
+91,LAL,G,15,over,12.5,14,Points,1,right
+92,UTH,F,15,under,17.5,25,Points,10,wrong
+93,UTH,C,14,under,16.5,10,Points,4,right
+94,DAL,G,11,under,13.5,17,Points,6,wrong
+95,DAL,G,18,under,20.5,27,Points,9,wrong
+96,NYK,G,14,over,12.5,5,Points,9,wrong
+97,ATL,G,14,under,15.5,8,Points,6,right
+98,ATL,C,14,over,12.5,6,Points,8,wrong
+99,NYK,C,8,over,6.5,4,Points,4,wrong
+100,MIL,G,19,over,17.5,17,Points,2,wrong
+101,BOS,F,28,over,26.5,25,Points,3,wrong
+102,BOS,C,12,over,10.5,11,Points,1,right
+103,PHO,G,8,over,6.5,4,Points,4,wrong
+104,LAL,G,8,under,9.5,3,Points,5,right
+105,LAL,G,20,under,21.5,13,Points,7,right
+106,BKN,F,6,under,7.5,0,Points,6,right
+107,UTH,F,9,over,7.5,2,Points,7,wrong
+108,UTH,F,6,under,7.5,3,Points,3,right
+109,NYK,G,16,over,15.5,15,Points,1,wrong
+110,NYK,F,22,over,21.5,25,Points,3,right
+111,MIL,F,20,over,19.5,17,Points,3,wrong
+112,BOS,G,12,under,12.5,19,Points,7,wrong
+113,BOS,G,24,under,24.5,25,Points,1,wrong
+114,BOS,G,8,under,8.5,5,Points,3,right
+115,GSW,G,30,under,30.5,33,Points,3,wrong
+116,PHO,G,14,under,14.5,21,Points,7,wrong
+117,PHO,C,8,over,7.5,8,Points,0,right
+118,PHO,F,9,under,9.5,8,Points,1,right
+119,PHO,G,9,under,9.5,7,Points,2,right
+120,PHO,F,11,over,10.5,17,Points,6,right
+121,PHO,F,11,over,10.5,11,Points,0,right
+122,LAL,C,6,under,6.5,2,Points,4,right
+123,LAL,G,10,over,9.5,0,Points,10,wrong
+124,BKN,F,7,under,7.5,8,Points,1,wrong
+125,BKN,F,7,under,7.5,15,Points,8,wrong
+126,UTH,G,14,over,13.5,22,Points,8,right
+127,UTH,F,9,under,9.5,4,Points,5,right
+128,UTH,C,6,under,6.5,9,Points,3,wrong
+129,UTH,G,13,under,13.5,12,Points,1,right
+130,DAL,C,8,over,7.5,5,Points,3,wrong
+131,BOS,F,4,over,2.5,4,Three Points Made,0,right
+132,DAL,G,1,under,2.5,3,Three Points Made,2,wrong
+133,NYK,G,2,over,1.5,1,Three Points Made,1,wrong
+134,NYK,G,3,over,2.5,3,Three Points Made,0,right
+135,NYK,F,2,over,1.5,6,Three Points Made,4,right
+136,ATL,G,3,over,2.5,2,Three Points Made,1,wrong
+137,ATL,F,1,under,1.5,3,Three Points Made,2,wrong
+138,ATL,F,2,under,2.5,1,Three Points Made,1,right
+139,MIL,G,2,over,1.5,1,Three Points Made,1,wrong
+140,MIL,F,2,under,2.5,4,Three Points Made,2,wrong
+141,MIL,F,1,over,0.5,0,Three Points Made,1,wrong
+142,BOS,G,2,over,1.5,3,Three Points Made,1,right
+143,BOS,G,3,over,2.5,2,Three Points Made,1,wrong
+144,BOS,G,1,under,1.5,1,Three Points Made,0,right
+145,GSW,G,5,under,5.5,5,Three Points Made,0,right
+146,PHO,G,1,over,0.5,2,Three Points Made,1,right
+147,PHO,F,2,over,1.5,2,Three Points Made,0,right
+148,PHO,G,2,under,2.5,1,Three Points Made,1,right
+149,GSW,G,1,under,1.5,2,Three Points Made,1,wrong
+150,PHO,F,2,over,1.5,3,Three Points Made,1,right
+151,PHO,G,2,over,1.5,0,Three Points Made,2,wrong
+152,PHO,F,2,over,1.5,2,Three Points Made,0,right
+153,LAL,F,2,under,2.5,3,Three Points Made,1,wrong
+154,LAL,G,2,under,2.5,1,Three Points Made,1,right
+155,BKN,G,3,under,3.5,3,Three Points Made,0,right
+156,LAL,G,1,over,0.5,0,Three Points Made,1,wrong
+157,LAL,G,1,under,1.5,0,Three Points Made,1,right
+158,BKN,G,4,over,3.5,8,Three Points Made,4,right
+159,LAL,G,1,over,0.5,0,Three Points Made,1,wrong
+160,UTH,G,2,under,2.5,3,Three Points Made,1,wrong
+161,UTH,F,1,under,1.5,0,Three Points Made,1,right
+162,UTH,F,2,under,2.5,4,Three Points Made,2,wrong
+163,UTH,G,2,under,2.5,3,Three Points Made,1,wrong
+164,UTH,F,2,over,1.5,0,Three Points Made,2,wrong
+165,DAL,G,2,under,2.5,2,Three Points Made,0,right
+166,UTH,G,3,under,3.5,1,Three Points Made,2,right
+167,UTH,F,1,under,1.5,1,Three Points Made,0,right
+168,DAL,G,1,under,1.5,2,Three Points Made,1,wrong
+169,NYK,F,1,over,0.5,0,Blocks,1,wrong
+170,ATL,C,2,over,1.5,2,Blocks,0,right
+171,ATL,F,1,over,0.5,2,Blocks,1,right
+172,NYK,C,2,over,1.5,5,Blocks,3,right
+173,MIL,G,1,over,0.5,1,Blocks,0,right
+174,MIL,F,1,under,1.5,2,Blocks,1,wrong
+175,BOS,G,1,over,0.5,1,Blocks,0,right
+176,BOS,F,1,over,0.5,2,Blocks,1,right
+177,BOS,C,2,over,1.5,2,Blocks,0,right
+178,PHO,C,1,over,0.5,1,Blocks,0,right
+179,GSW,F,1,over,0.5,3,Blocks,2,right
+180,GSW,F,1,over,0.5,1,Blocks,0,right
+181,PHO,C,1,over,0.5,1,Blocks,0,right
+182,PHO,F,1,over,0.5,0,Blocks,1,wrong
+183,LAL,F,1,under,1.5,1,Blocks,0,right
+184,BKN,G,1,over,0.5,3,Blocks,2,right
+185,LAL,C,1,under,1.5,0,Blocks,1,right
+186,LAL,G,1,over,0.5,0,Blocks,1,wrong
+187,BKN,C,1,under,1.5,5,Blocks,4,wrong
+188,UTH,C,1,over,0.5,3,Blocks,2,right
+189,UTH,C,2,under,2.5,2,Blocks,0,right
+190,DAL,C,1,over,0.5,0,Blocks,1,wrong
+191,ATL,G,2,under,6.5,2,Assists,0,right
+192,ATL,F,1,under,2.5,3,Assists,2,wrong
+193,MIL,G,3,over,1.5,1,Assists,2,wrong
+194,BOS,F,5,over,3.5,4,Assists,1,right
+195,PHO,G,2,over,0.5,1,Assists,1,right
+196,LAL,G,8,over,6.5,11,Assists,3,right
+197,BKN,F,3,over,1.5,3,Assists,0,right
+198,BKN,G,2,over,0.5,4,Assists,2,right
+199,LAL,G,4,over,2.5,2,Assists,2,wrong
+200,DAL,G,5,under,6.5,6,Assists,1,right
+201,NYK,F,1,over,0.5,0,Assists,1,wrong
+202,NYK,G,3,over,2.5,2,Assists,1,wrong
+203,NYK,G,3,over,2.5,3,Assists,0,right
+204,ATL,C,1,under,1.5,5,Assists,4,wrong
+205,NYK,F,5,under,5.5,3,Assists,2,right
+206,ATL,G,3,under,3.5,4,Assists,1,wrong
+207,ATL,C,1,under,1.5,1,Assists,0,right
+208,ATL,F,2,under,2.5,3,Assists,1,wrong
+209,NYK,C,1,over,0.5,1,Assists,0,right
+210,NYK,F,3,over,2.5,4,Assists,1,right
+211,NYK,F,1,over,0.5,1,Assists,0,right
+212,MIL,G,6,over,5.5,3,Assists,3,wrong
+213,MIL,C,1,under,1.5,0,Assists,1,right
+214,MIL,F,5,over,4.5,7,Assists,2,right
+215,MIL,F,5,over,4.5,5,Assists,0,right
+216,BOS,G,6,over,5.5,7,Assists,1,right
+217,MIL,F,1,over,0.5,4,Assists,3,right
+218,BOS,G,3,under,3.5,3,Assists,0,right
+219,BOS,C,2,over,1.5,4,Assists,2,right
+220,BOS,G,1,under,1.5,0,Assists,1,right
+221,BOS,G,3,under,3.5,5,Assists,2,wrong
+222,GSW,G,6,over,5.5,6,Assists,0,right
+223,PHO,G,8,under,8.5,8,Assists,0,right
+224,PHO,C,1,over,0.5,0,Assists,1,wrong
+225,PHO,F,2,over,1.5,2,Assists,0,right
+226,GSW,F,8,over,7.5,10,Assists,2,right
+227,PHO,G,4,under,4.5,3,Assists,1,right
+228,GSW,F,1,under,1.5,2,Assists,1,wrong
+229,PHO,G,3,over,2.5,2,Assists,1,wrong
+230,GSW,G,1,under,1.5,2,Assists,1,wrong
+231,PHO,C,1,under,1.5,1,Assists,0,right
+232,PHO,F,2,over,1.5,1,Assists,1,wrong
+233,GSW,G,2,under,2.5,0,Assists,2,right
+234,PHO,F,1,under,1.5,2,Assists,1,wrong
+235,GSW,F,2,under,2.5,3,Assists,1,wrong
+236,LAL,F,7,over,6.5,7,Assists,0,right
+237,LAL,G,1,over,0.5,0,Assists,1,wrong
+238,BKN,G,12,over,11.5,10,Assists,2,wrong
+239,LAL,C,1,over,0.5,0,Assists,1,wrong
+240,LAL,G,1,under,1.5,0,Assists,1,right
+241,BKN,F,1,under,1.5,0,Assists,1,right
+242,BKN,G,3,under,3.5,7,Assists,4,wrong
+243,BKN,F,1,under,1.5,1,Assists,0,right
+244,LAL,G,2,over,1.5,3,Assists,1,right
+245,BKN,C,1,over,0.5,3,Assists,2,right
+246,UTH,G,5,under,5.5,5,Assists,0,right
+247,UTH,F,1,under,1.5,1,Assists,0,right
+248,UTH,F,2,over,1.5,1,Assists,1,wrong
+249,UTH,C,1,under,1.5,1,Assists,0,right
+250,UTH,G,2,under,2.5,4,Assists,2,wrong
+251,DAL,C,1,under,1.5,2,Assists,1,wrong
+252,UTH,F,4,over,3.5,6,Assists,2,right
+253,DAL,G,3,under,3.5,1,Assists,2,right
+254,UTH,G,5,under,5.5,3,Assists,2,right
+255,DAL,G,1,under,1.5,2,Assists,1,wrong
+256,UTH,F,2,under,2.5,3,Assists,1,wrong
+257,DAL,G,2,over,1.5,1,Assists,1,wrong
+258,NYK,G,1,over,0.5,0,Steals,1,wrong
+259,NYK,G,1,over,0.5,1,Steals,0,right
+260,NYK,F,1,over,0.5,1,Steals,0,right
+261,ATL,G,1,over,0.5,1,Steals,0,right
+262,ATL,C,1,over,0.5,0,Steals,1,wrong
+263,ATL,F,1,over,0.5,0,Steals,1,wrong
+264,NYK,C,1,over,0.5,0,Steals,1,wrong
+265,ATL,F,1,under,1.5,2,Steals,1,wrong
+266,MIL,G,2,over,1.5,4,Steals,2,right
+267,MIL,F,1,under,1.5,1,Steals,0,right
+268,MIL,F,1,under,1.5,0,Steals,1,right
+269,BOS,G,2,over,1.5,1,Steals,1,wrong
+270,MIL,G,1,over,0.5,1,Steals,0,right
+271,BOS,G,1,under,1.5,2,Steals,1,wrong
+272,BOS,F,1,over,0.5,2,Steals,1,right
+273,BOS,C,1,over,0.5,0,Steals,1,wrong
+274,GSW,G,1,under,1.5,3,Steals,2,wrong
+275,PHO,G,2,over,1.5,0,Steals,2,wrong
+276,PHO,F,1,over,0.5,0,Steals,1,wrong
+277,GSW,F,2,over,1.5,3,Steals,1,right
+278,PHO,G,1,over,0.5,2,Steals,1,right
+279,GSW,F,1,over,0.5,0,Steals,1,wrong
+280,PHO,G,1,over,0.5,0,Steals,1,wrong
+281,GSW,G,2,over,1.5,1,Steals,1,wrong
+282,PHO,C,1,over,0.5,1,Steals,0,right
+283,PHO,F,1,under,1.5,1,Steals,0,right
+284,PHO,F,1,over,0.5,0,Steals,1,wrong
+285,LAL,F,1,under,1.5,3,Steals,2,wrong
+286,LAL,G,1,over,0.5,0,Steals,1,wrong
+287,BKN,G,2,over,1.5,1,Steals,1,wrong
+288,LAL,G,1,under,1.5,1,Steals,0,right
+289,LAL,C,1,over,0.5,0,Steals,1,wrong
+290,BKN,F,1,over,0.5,1,Steals,0,right
+291,BKN,F,1,over,0.5,0,Steals,1,wrong
+292,BKN,G,1,over,0.5,1,Steals,0,right
+293,BKN,F,1,over,0.5,1,Steals,0,right
+294,BKN,G,1,over,0.5,1,Steals,0,right
+295,BKN,C,1,over,0.5,0,Steals,1,wrong
+296,UTH,G,1,over,0.5,1,Steals,0,right
+297,UTH,F,1,over,0.5,1,Steals,0,right
+298,UTH,C,1,over,0.5,2,Steals,1,right
+299,UTH,G,1,over,0.5,1,Steals,0,right
+300,DAL,C,1,over,0.5,0,Steals,1,wrong
+301,UTH,G,1,under,1.5,3,Steals,2,wrong
+302,UTH,F,1,over,0.5,0,Steals,1,wrong
+303,DAL,G,1,over,0.5,2,Steals,1,right
